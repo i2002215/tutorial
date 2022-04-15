@@ -1,12 +1,9 @@
-# writing a new function
+# modifying the function, getting rid of func_c
 
 def func_a():
-  print("hello world again!")
+  print("this is a first function")
 
 def func_b():
   print("this is a second function")
-
-def func_c():
-  print("this is a third function")
 
 func_a()
